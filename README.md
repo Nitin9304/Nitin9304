@@ -1,4 +1,4 @@
-![logo](https://github.com/Nitin9304/Nitin9304/blob/5fe4b5c7b1ee88ea45e252eaa0526e415974cfea/Nitin.png).
+![logo](https://github.com/Nitin9304/Nitin9304/blob/5fe4b5c7b1ee88ea45e252eaa0526e415974cfea/Nitin.png)..
 
 <h1 align="center">Hi 👋, I'm Nitin Kumar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
