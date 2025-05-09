@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [file:///E:/Downloads/portfolio%20website/index.html](file:///E:/Downloads/portfolio%20website/index.html)
 
-- 💬 Ask me about ** Python, ML, AI, Cloud Computing, Statistics, Big Data**
+- 💬 Ask me about *** Python, ML, AI, Cloud Computing, Statistics, Big Data***
 
 - 📫 How to reach me **nitinkumarnn33@gmail.com**
 
